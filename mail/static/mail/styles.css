@@ -1,0 +1,12 @@
+textarea {
+    min-height: 400px;
+}
+
+.email {
+    display: flex;
+    justify-content: space-between;
+}
+
+p {
+    margin: 0;
+}
